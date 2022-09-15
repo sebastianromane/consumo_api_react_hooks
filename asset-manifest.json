@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/consumo_api_react_hooks/static/css/main.ddcef2a3.css",
+    "main.js": "/consumo_api_react_hooks/static/js/main.7eca097b.js",
+    "index.html": "/consumo_api_react_hooks/index.html",
+    "main.ddcef2a3.css.map": "/consumo_api_react_hooks/static/css/main.ddcef2a3.css.map",
+    "main.7eca097b.js.map": "/consumo_api_react_hooks/static/js/main.7eca097b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcef2a3.css",
+    "static/js/main.7eca097b.js"
+  ]
+}
